@@ -1,0 +1,9 @@
+Build an entry for the make.fun bounty "Notes From a Passive-Aggressive Fridge" (slug u-motasimfuad-notes-from-a-passive-aggressive-fridge-83c00ad7, $2 prize).
+
+The bounty: write one funny passive-aggressive note that a smart fridge leaves for its owner — a single line, dry, petty and specific, the sort of thing a smug appliance would put on its door screen. A judge model compares the notes two at a time and keeps the funnier one.
+
+The program (main.ts) must write exactly one note to /output/entry.txt: UTF-8 text, 1 to 200 characters, a single line, deterministic — the same note on every run, no randomness, no network, no clock.
+
+Jouje's standing instruction for free make.fun bounties: "Setiap ada bounty yang free, di gas aja"
+
+Entry repo: public GitHub repo under 0xjouje-ai, MIT license, README with the 3 make.fun badges and the bounty link, .makefun/owner.json with the payout wallet CSZyoGWEtwHBb1no6wHhN8nmvKEGUMaLm6o3MSZppMqo. No spend of any kind.
